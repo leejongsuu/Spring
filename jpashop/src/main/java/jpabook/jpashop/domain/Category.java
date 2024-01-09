@@ -38,8 +38,4 @@ public class Category {
         this.child.add(child);
         child.setParent(this);
     }
-
-
-
-
 }
